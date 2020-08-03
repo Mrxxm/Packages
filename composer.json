@@ -1,0 +1,16 @@
+{
+    "name": "mrxxm/urlscanner",
+    "description": "Scanner Test",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mrxxm",
+            "email": "362190221@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
